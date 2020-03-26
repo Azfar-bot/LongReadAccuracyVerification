@@ -4,6 +4,7 @@
 import subprocess
 import os
 
+# CHANGE PATH FOR YOUR MACHINE
 topLevelPATH = '/home/sykes/PycharmProjects/LongReadAccuracyVerification_pythonProject/'
 
 def unpack_fastq():
